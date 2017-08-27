@@ -1,24 +1,18 @@
-# README
+# Internal API Exercise
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Making a resource avaiable through API
 
-Things you may want to cover:
 
-* Ruby version
 
-* System dependencies
+## Built With
 
-* Configuration
+* Ruby on Rails
 
-* Database creation
 
-* Database initialization
+## Author
 
-* How to run the test suite
+* **Dion, Chan Hin Won** -  [hwchan91](https://github.com/hwchan91)
 
-* Services (job queues, cache servers, search engines, etc.)
+## Acknowledgements
 
-* Deployment instructions
-
-* ...
+* This project is part of [The Odin Project Curriculum](https://www.theodinproject.com/courses/ruby-on-rails/lessons/apis)
